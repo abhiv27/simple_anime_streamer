@@ -31,7 +31,7 @@ while true; do
             ;;
         2)
             echo "You selected MPV."
-            choice="-m"
+            choice="-k"
             break
             ;;
         *)
