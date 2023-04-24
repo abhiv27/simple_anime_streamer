@@ -8,7 +8,7 @@ A shell script for streaming anime.
 
 - npm
 - peerflix
-- media players supported by peerflix (such as mpv or vlc)
+- media players supported by peerflix (currently limited to vlc and mpv)
 
 
 ## Usage
